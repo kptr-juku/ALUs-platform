@@ -28,6 +28,8 @@ graph TD;
     20_04-->pop_os;
     ubuntu-->22_04;
     22_04-->jammy-aws;
+    ubuntu-->24_04;
+    24_04-->noble;
     rhel-->8;
     8-->Ooptna...TBD;
 ```
